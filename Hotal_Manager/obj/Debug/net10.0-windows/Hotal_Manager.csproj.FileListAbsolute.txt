@@ -35,3 +35,4 @@ D:\C# Code\Hotal_Manager\Hotal_Manager\obj\Debug\net10.0-windows\Hotal_Manager.M
 D:\C# Code\Hotal_Manager\Hotal_Manager\obj\Debug\net10.0-windows\Hotal_Manager.GuestForm.resources
 D:\C# Code\Hotal_Manager\Hotal_Manager\obj\Debug\net10.0-windows\Hotal_Manager.RoomsForm.resources
 D:\C# Code\Hotal_Manager\Hotal_Manager\obj\Debug\net10.0-windows\Hotal_Manager.PersonnelForm.resources
+D:\C# Code\Hotal_Manager\Hotal_Manager\obj\Debug\net10.0-windows\Hotal_Manager.sourcelink.json
