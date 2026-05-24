@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net10.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4.7" />
+      <PackageReference Include="MySql.Data" Version="9.7.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="MainForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="GuestForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="RoomsForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="PersonnelForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="billsForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+    </ItemGroup>
+
+</Project>
